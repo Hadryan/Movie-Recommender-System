@@ -1,2 +1,2 @@
-# Movie-Recommender-System-
+# Movie-Recommender-System
 Movie Recommender System is a system that seeks to predict or filter movie preferences according to the user's choices. There are lots of techniques to achieve this system with each with its merits and demerits. Recommender Systems can be utilized in diverse  areas including music, news, social and so on. Movie Recommender System is just one instance of a Recommender System.
